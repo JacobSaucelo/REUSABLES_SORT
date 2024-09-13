@@ -160,3 +160,30 @@ export const DATA_TEMPLATE = [
     ip_address: "214.16.179.205",
   },
 ];
+
+export const DATA_NUMBERS = [
+  2, 4, 14, 54, 2, 43, 243, 642, 23, 54, 32, 56, 13, 5, 6, 3,
+];
+
+export const DATA_STRING = [
+  "Martelle",
+  "Padraic",
+  "Merle",
+  "Berkeley",
+  "Shoshanna",
+  "Gussy",
+  "Costanza",
+  "Kissee",
+  "Franciska",
+  "Tracy",
+  "Jacquenetta",
+  "Mason",
+  "Sammy",
+  "Edvard",
+  "Wendie",
+  "Ossie",
+  "Charil",
+  "Noe",
+  "Salomon",
+  "Natka",
+];
