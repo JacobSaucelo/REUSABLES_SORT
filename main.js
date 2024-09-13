@@ -1,1 +1,1 @@
-console.log("sort");
+const REUSABLES_QUICKSORT = function (PARAM_CONTAINER) {};
